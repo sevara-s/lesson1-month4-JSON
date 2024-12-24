@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Earbuds",
+      "image": "imgs/earbuds.jpg",
+      "description": "Compact and ergonomic earbuds with noise-cancellation and 24-hour battery life.",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "name": "Smartphone G12 Pro",
+      "image": "imgs/smartphone.jpeg",
+      "description": "High-resolution display, 128GB storage, 5000mAh battery, and triple-lens camera.",
+      "price": 699.99
+    },
+    {
+      "id": 3,
+      "name": "Fitness Tracker X100",
+      "image": "imgs/fitness.jpg",
+      "description": "Tracks heart rate, steps, and sleep patterns. Waterproof and compatible with iOS and Android.",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop ZX500",
+      "image": "imgs/gaming.jpeg",
+      "description": "Powerful gaming laptop with RTX 3060, 16GB RAM, and 512GB SSD. Perfect for hardcore gamers.",
+      "price": 1299.99
+    },
+    {
+      "id": 5,
+      "name": "4K UHD Smart TV",
+      "image": "imgs/TV.jpeg",
+      "description": "55-inch 4K UHD Smart TV with HDR support and built-in streaming apps.",
+      "price": 449.99
+    },
+    {
+      "id": 6,
+      "name": "Mechanical Keyboard MK710",
+      "image": "imgs/keyboard.jpeg",
+      "description": "RGB-backlit mechanical keyboard with customizable keys and ergonomic design.",
+      "price": 79.99
+    }
+  ]
+}
